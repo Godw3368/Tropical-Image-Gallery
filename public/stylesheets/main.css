@@ -1,0 +1,34 @@
+.navbar{
+    margin-bottom: 30px;
+}
+
+.jumbotron{
+    color: #2c3e50; 
+    background-color: mistyrose; 
+    margin-top: 30px; 
+    margin-bottom: 50px;
+}
+
+#about {
+    background-color: mistyrose;
+    color: #2c3e50;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+    margin-right: 5%; 
+    margin-left: 5%;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+#aboutP {
+    width: 30%; 
+    margin: 30px auto;
+}
+
+#foot {
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    padding-top: 50vh;
+}
